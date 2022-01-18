@@ -1,0 +1,17 @@
+{
+"companyName": "Puzzle Royal ",
+"productName": "PuzzleRoyale WebGL",
+"productVersion": "2.0",
+"dataUrl": "PR1MinBuild.data.unityweb",
+"wasmCodeUrl": "PR1MinBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "PR1MinBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "PR1MinBuild.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
